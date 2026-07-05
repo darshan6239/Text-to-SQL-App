@@ -1,7 +1,3 @@
-# Text-to-SQL-App
-Chat with any CSV using AI. Generate SQL, analyze data, and download insights with local LLMs.
-
-
 # 📊 Text-to-SQL App
 
 Upload any CSV file and ask questions about it in plain English. The app converts your question into a SQL query, runs it against the data, and returns the results as a downloadable table — no SQL knowledge required.
