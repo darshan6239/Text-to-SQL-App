@@ -11,7 +11,6 @@ Upload any CSV file and ask questions about it in plain English. The app convert
 <img width="1745" height="833" alt="image" src="https://github.com/user-attachments/assets/a7f7352c-64f7-46de-b140-ba91a8cd34e4" />
 
 ```
-![demo](./assets/demo.png)
 ```
 
 ---
