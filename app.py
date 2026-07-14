@@ -114,7 +114,6 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# --------------------------------------------------
 # FILE UPLOAD
 
 uploaded_file = st.file_uploader(
