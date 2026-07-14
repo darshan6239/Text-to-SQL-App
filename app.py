@@ -116,7 +116,6 @@ st.markdown("""
 
 # --------------------------------------------------
 # FILE UPLOAD
-# --------------------------------------------------
 
 uploaded_file = st.file_uploader(
     "📂 Upload CSV File",
